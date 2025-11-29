@@ -1,3 +1,9 @@
+let numerouno = 8;
+let numerodos = 9;
+let suma = numerouno + numerodos;
+let equal = numerouno == numerodos;
+
+
 console.log(`La suma es ${suma}`)
 
 let resta = numerouno - numerodos;
